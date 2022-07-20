@@ -1,0 +1,50 @@
+
+/* -----------------
+    first part Start
+---------------------*/
+
+.container{
+    background-color: black;
+    border: 1px solid black;
+    display: flex;
+    margin-right: 140px;
+    margin-left: 140px;
+    border-radius: 20px;
+
+}
+
+.information{
+
+    margin-left: 50px;
+    margin-right: 80px;
+}
+
+.main-header h1{
+    font-size: 50px;
+    color: #FFFFFF;
+}
+.sub-header p{
+    color: #FFFFFF;
+    font-size: 10px;
+}
+
+
+
+.player-picture{
+
+    padding-left: 20px;
+}
+
+
+.watch-button a{
+    
+    background: red;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 20px;
+    color: #FFFFFF;
+}
+
+/* -----------------
+    first part End
+---------------------*/
